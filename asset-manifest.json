@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/amaixin-redux-counter/static/css/main.e937d1be.css",
+    "main.js": "/amaixin-redux-counter/static/js/main.424ba2d9.js",
+    "index.html": "/amaixin-redux-counter/index.html",
+    "main.e937d1be.css.map": "/amaixin-redux-counter/static/css/main.e937d1be.css.map",
+    "main.424ba2d9.js.map": "/amaixin-redux-counter/static/js/main.424ba2d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e937d1be.css",
+    "static/js/main.424ba2d9.js"
+  ]
+}
